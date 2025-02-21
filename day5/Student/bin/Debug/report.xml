@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Маркидонов</Name>
+    <Grades>
+      <Grade>
+        <Subject>SA</Subject>
+        <Score>5</Score>
+        <Date>2025-02-21T12:32:49.6351439+08:00</Date>
+      </Grade>
+    </Grades>
+  </Student>
+  <Student>
+    <Name>Маркидонов </Name>
+    <Grades>
+      <Grade>
+        <Subject>MO</Subject>
+        <Score>4</Score>
+        <Date>2025-02-21T12:32:58.6480616+08:00</Date>
+      </Grade>
+    </Grades>
+  </Student>
+</ArrayOfStudent>

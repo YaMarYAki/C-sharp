@@ -1,0 +1,7 @@
+C:\Users\marki\OneDrive\Рабочий стол\C-sharp\async\async\bin\Debug\async.exe.config
+C:\Users\marki\OneDrive\Рабочий стол\C-sharp\async\async\bin\Debug\async.exe
+C:\Users\marki\OneDrive\Рабочий стол\C-sharp\async\async\bin\Debug\async.pdb
+C:\Users\marki\OneDrive\Рабочий стол\C-sharp\async\async\obj\Debug\async.csproj.AssemblyReference.cache
+C:\Users\marki\OneDrive\Рабочий стол\C-sharp\async\async\obj\Debug\async.csproj.CoreCompileInputs.cache
+C:\Users\marki\OneDrive\Рабочий стол\C-sharp\async\async\obj\Debug\async.exe
+C:\Users\marki\OneDrive\Рабочий стол\C-sharp\async\async\obj\Debug\async.pdb
